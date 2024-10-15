@@ -381,6 +381,15 @@ section {
   padding-bottom: 30px;
 }
 
+#hero .btn{
+  background: rgb(102, 102, 109) ;
+  color: white;
+  padding: 12px;
+  margin: 28px;
+  font-size: 15px;
+  
+  }
+
 
 
 .section-title h2 {
