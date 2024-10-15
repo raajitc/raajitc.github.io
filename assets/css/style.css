@@ -329,6 +329,15 @@ h6 {
   margin-top: 30px;
 }
 
+#hero .btn{
+background: rgb(102, 102, 109) ;
+color: white;
+padding: 12px;
+margin: 28px;
+font-size: 15px;
+
+}
+
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
@@ -372,6 +381,8 @@ section {
   padding-bottom: 30px;
 }
 
+
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
@@ -392,6 +403,8 @@ section {
   bottom: 1px;
   left: calc(50% - 60px);
 }
+
+
 
 .section-title h2::after {
   content: "";
@@ -420,9 +433,11 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
+  
 }
 
 .about .content ul li {
+  
   margin-bottom: 20px;
   display: flex;
   align-items: center;
@@ -430,6 +445,7 @@ section {
 
 .about .content ul strong {
   margin-right: 10px;
+  
 }
 
 .about .content ul i {
